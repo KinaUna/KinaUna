@@ -1,4 +1,4 @@
-## Hello, my name is Per and I'm an code-addict.
+## Hello, my name is Per and I'm a code-addict.
 
 I am a self-taught full-stack developer currently working on the KinaUnaAzure project.
 
