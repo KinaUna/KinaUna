@@ -1,4 +1,7 @@
-## Hi there 👋
+## Hello, my name is Per and I'm an code-addict.
+
+I am a self-taught full-stack developer currently working on the KinaUnaAzure project.
+
 
 <!--
 **KinaUna/KinaUna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
